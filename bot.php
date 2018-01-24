@@ -63,5 +63,5 @@ $client->on('message', function (\CharlotteDunois\Yasmin\Models\Message $message
 });
 
 
-$client->login('NDA1NDk0NDE4ODk2ODQ2ODYw.DUlNsg.5m7x_wMlh_cJhuWgVkb6fcPW8mM');
+$client->login('');
 $loop->run();
